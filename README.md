@@ -61,8 +61,8 @@ With hands-on experience in **LLMs**, **Python**, and **AWS Cloud**, I'm eager t
 - Creating **enterprise-grade RAG systems** for document understanding and Q&A
 - Developing **scalable backend services** using FastAPI and AWS infrastructure
 - Exploring **multi-agent collaboration frameworks** for complex task solving
-- Contributing to **open-source AI/ML projects** and communities
-- Implementing **production-ready ML pipelines** with monitoring and logging
+- Contributing to **open-source AI projects** and communities
+- Implementing **production-ready AI pipelines** with monitoring and logging
 
 ---
 
@@ -72,7 +72,7 @@ I'm continuously learning and staying updated with:
 - ✨ Latest advancements in **LLMs** and **foundation models** (GPT-4, Claude 3, Llama)
 - 🔄 **Prompt engineering** best practices and techniques
 - 🏗️ **System design** for AI applications and scalability
-- 📈 **Production ML/AI** deployments and monitoring
+- 📈 **Production AI** deployments and monitoring
 - 🌐 **Distributed systems** and microservices architecture
 - 🤝 **Agent frameworks** - AutoGen, CrewAI, LangGraph
 
@@ -102,16 +102,13 @@ Deploying and managing AI applications on AWS, leveraging services like SageMake
 ### 🧠 AI Agent Development
 Creating autonomous agents that can plan, reason, and execute complex tasks using LLMs and external tools.
 
-### 📊 Data Pipeline Engineering
-Building efficient ETL pipelines for data processing and feature engineering in ML workflows.
 
-*Explore my repositories for detailed implementation and code samples! 🚀*
 
 ---
 
 ## 🌟 Why Hire Me?
 
-✅ **Fresh Perspective** - Bringing cutting-edge AI/ML approaches and modern best practices  
+✅ **Fresh Perspective** - Bringing cutting-edge RAG-AI approaches and modern best practices  
 ✅ **Highly Motivated** - Passionate about AI and deeply committed to continuous learning  
 ✅ **Full-Stack Capability** - From LLM integration to production deployment on cloud  
 ✅ **Problem Solver** - Building efficient, scalable, and maintainable solutions  
@@ -125,14 +122,14 @@ Building efficient ETL pipelines for data processing and feature engineering in 
 ## 📊 What I'm Looking For
 
 🎯 **Roles**: 
-- Junior AI/ML Developer
+- Junior AI-Agentic Developer
 - Backend Engineer (Python/FastAPI)
 - ML Engineer / Data Engineer
 - AI Internships (Full-time, Contract)
 - Early-career opportunities in AI startups
 
 🎯 **Industries**: 
-- AI/ML Startups and Scale-ups
+- AI Startups and Scale-ups
 - FinTech and Financial Services
 - Healthcare Technology
 - Enterprise AI Solutions
@@ -150,9 +147,8 @@ Building efficient ETL pipelines for data processing and feature engineering in 
 
 Let's connect and build amazing things together! 🚀
 
-- 💼 **LinkedIn**: [linkedin.com/in/trinadh04](https://linkedin.com/in/trinadh04) 
-- 📧 **Email**: [trinadh04@example.com](mailto:trinadh04@example.com) *(Update with your email)*
-- 🐦 **Twitter**: [@Trinadh04](https://twitter.com/trinadh04) *(Update if you have one)*
+- 💼 **LinkedIn**: [linkedin.com/in/trinadh04](https://www.linkedin.com/in/trinadh-dev/) 
+- 📧 **Email**: [trinadh04@example.com](mailto:trinadhsaiappikatla@example.com) *(Update with your email)*
 - 🌐 **Portfolio**: [Your Portfolio Site](https://yourportfolio.com) *(Add your portfolio link)*
 - 📱 **GitHub**: [github.com/Trinadh04](https://github.com/Trinadh04)
 
@@ -174,7 +170,6 @@ I actively contribute to projects and maintain a healthy GitHub presence. You ca
 
 - 🎯 Successfully built and deployed multiple RAG systems
 - 🚀 Created scalable FastAPI applications handling high throughput
-- ☁️ Deployed ML models on AWS with containerization
 - 📚 Strong track record of learning new technologies quickly
 - 🤝 Collaborated on team projects with professional workflows
 - 📝 Maintained clean, well-documented code following best practices
@@ -248,9 +243,9 @@ I'm **actively looking for opportunities** to grow as an **AI Developer** and ma
 
 **Questions about my projects? Want to collaborate? Just shoot me a message!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/trinadh04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/trinadh-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Trinadh04)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail)](mailto:trinadh04@example.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail)](mailto:trinadhsaiappikatla@example.com)
 
 ---
 
