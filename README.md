@@ -148,7 +148,7 @@ Creating autonomous agents that can plan, reason, and execute complex tasks usin
 Let's connect and build amazing things together! 🚀
 
 - 💼 **LinkedIn**: [linkedin.com/in/trinadh04](https://www.linkedin.com/in/trinadh-dev/) 
-- 📧 **Email**: [trinadh04@example.com](mailto:trinadhsaiappikatla@example.com) *(Update with your email)*
+- 📧 **Email**: [trinadh04@example.com](mailto:trinadhsaiappikatla@gmail.com) *(Update with your email)*
 - 🌐 **Portfolio**: [Your Portfolio Site](https://yourportfolio.com) *(Add your portfolio link)*
 - 📱 **GitHub**: [github.com/Trinadh04](https://github.com/Trinadh04)
 
